@@ -4,6 +4,18 @@
 
 Estamos em busca de desenvolvedores Ruby on Rails para compor nosso time de backend, também será bem vindo desafios feitos em NodeJS e Typescript. Vamos conversar?
 
+[Agendar entrevista](https://meetings.hubspot.com/sidnei-pacheco)
+
+**Requisitos:**
+
+- Conhecimento de Ruby on Rails
+- Conhecimento de HTML, CSS e JavaScript
+- Experiência de implementação de testes unitários
+- Conhecimento de Git e gostar de colaborar via pull requests
+- Conhecimento de SQL. PostgreSQL é um diferencial
+- Consumo de APIs
+- Sidekiq
+
 ## Sobre a SEUGURU
 
 Nascemos uma insurtech com o objetivo de desburocratizar os beneficios para os profissionais autonomos.
@@ -12,7 +24,7 @@ Venha fazer parte do nosso time!
 
 ## Sobre o desafio
 
-Criar um sistema que consuma a [API da Marvel](https://developer.marvel.com/) importar as historias e personagens.
+Criar um sistema para consumir a [API da Marvel](https://developer.marvel.com/) importar as historias e personagens.
 
 O mesmo sistema, deve importar e possuir endpoints para listar as historias seus personagens, cadastro de usuário para consumir os items importados.
 
